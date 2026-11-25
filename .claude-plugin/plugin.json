@@ -1,0 +1,9 @@
+{
+  "name": "ef-review-kit",
+  "version": "1.0.0",
+  "description": "Entity Framework (EF6 + EF Core 3 to 11) review: wrong usage, slow queries, model and migration risks, security, new feature suggestions and upgrade readiness, with health score and optional auto-fix.",
+  "author": {
+    "name": "Askar Musthaffa"
+  },
+  "keywords": ["entity-framework", "ef-core", "ef6", "dotnet", "performance", "sql-server", "code-review"]
+}

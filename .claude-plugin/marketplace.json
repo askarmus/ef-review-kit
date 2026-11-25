@@ -1,0 +1,13 @@
+{
+  "name": "ef-review-kit",
+  "owner": {
+    "name": "Askar Musthaffa"
+  },
+  "plugins": [
+    {
+      "name": "ef-review-kit",
+      "source": "./",
+      "description": "Entity Framework review: bugs, slow queries, new features, upgrade readiness."
+    }
+  ]
+}
